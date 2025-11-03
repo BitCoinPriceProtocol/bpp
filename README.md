@@ -14,7 +14,7 @@
 
 ## 10-second demo
 ```bash
-git clone https://github.com/BitCoinPriceProtocol/bpp
+git clone https://github.com/BitCoinPriceProtocol/bpp,git
 cd bpp-poc
 cargo run --release          # server (port 8128)
 # open second terminal

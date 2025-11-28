@@ -1,5 +1,7 @@
 # BPP-POC – Bitcoin Price Protocol  
 
+**A Simple Proof of Concept Piece of Code** 
+
 **NTP for Bitcoin price**  
 96-byte UDP packets • <1 s global sync • zero oracles • **real Kraken + Coinbase prices**  
 
